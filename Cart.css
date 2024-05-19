@@ -1,0 +1,27 @@
+#cart-container {
+    background-color: rgb(93, 95, 88);
+    width: 1000px;
+    height: 900px;
+    margin-left: 0!important;
+    
+    
+}
+
+#item-list {
+    margin-top: 0px;
+}
+
+#subtotal {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#total {
+    text-align: center;
+}
+
+span {
+    position: column;
+    vertical-align: bottom;
+    
+}
